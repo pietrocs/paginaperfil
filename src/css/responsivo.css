@@ -1,0 +1,23 @@
+@media (max-widht: 520px){
+    .section{
+        width: 90%;
+        padding: 20px;
+    }
+
+    .header img{
+        width: 100px;
+    }
+
+    .header h3{
+        font-size: 1.3rem;
+    }
+
+    .main{
+        gap: 10px;
+    }
+
+    .main a{
+        padding: 10px 0;
+        box-shadow: 5px 5px #f7e759;
+    }
+}
